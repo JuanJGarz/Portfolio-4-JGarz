@@ -506,6 +506,12 @@ main {
 
 .about-text p { margin-bottom: 15px; }
 
+.footnote-text {
+  color: var(--light-gray-70);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-3);
+  line-height: 1;
+}
 
 
 /**
